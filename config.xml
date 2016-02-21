@@ -5,9 +5,11 @@
         versionCode = "10" 
         version     = "1.0.0" >
 
+        <manifest android:hardwareAccelerated="true" android:versionCode="3" android:versionName="1.0.3" android:windowSoftInputMode="adjustPan" package="com.compay.app" xmlns:android="http://schemas.android.com/apk/res/android">
+
     <!-- versionCode is optional and Android only -->
 
-   <name>HelloWorld</name>
+   <name>Part Substitusi Pulsar 200NS</name>
   <description>
         Part Substitusi Pulsar 200 NS
   </description>
