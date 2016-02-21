@@ -1,0 +1,11 @@
+<widget id="com.example.hello" version="0.0.1">
+        <name>HelloWorld</name>
+        <description>
+        Part Substitusi Pulsar 200 NS
+	</description>
+        <author email="dendybsulistyo@gmail.com" href="http://andita.info">
+            Pulsar 200 NS
+        </author>
+        <content src="index.html" />
+        <access origin="*" />
+    </widget>
